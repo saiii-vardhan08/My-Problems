@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/saiii-vardhan08/My-Problems/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0507-perfect-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -18,4 +19,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saiii-vardhan08/My-Problems/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
