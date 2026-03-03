@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1518-water-bottles](https://github.com/saiii-vardhan08/My-Problems/tree/master/1518-water-bottles) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/saiii-vardhan08/My-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Brainteaser
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/1137-n-th-tribonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/saiii-vardhan08/My-Problems/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
