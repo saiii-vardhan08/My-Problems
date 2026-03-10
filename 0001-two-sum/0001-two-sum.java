@@ -4,7 +4,7 @@ class Solution {
         int b[] = new int[2];
         for(int i=0;i<n;i++)
         {
-           
+           //this is for comparing with next elements when condition met then return
                 for(int j=i+1;j<n;j++)
                 {
                     
