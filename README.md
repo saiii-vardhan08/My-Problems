@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saiii-vardhan08/My-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1518-water-bottles](https://github.com/saiii-vardhan08/My-Problems/tree/master/1518-water-bottles) |
 | [3819-rotate-non-negative-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/3819-rotate-non-negative-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
