@@ -7,6 +7,8 @@ class Solution {
    {
     return 0;
    }
+
+// used two pointers for the removing of element not exactly removing but erasing it from the original state 
     int i=0;
    for(int j=1;j<n;j++)
    {
