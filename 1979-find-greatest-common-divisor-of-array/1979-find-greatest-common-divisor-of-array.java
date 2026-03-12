@@ -24,6 +24,8 @@ class Solution {
         return ans;
         
     }
+    // used method of gcd to find the gcd of two numbers gcd(a,b) = gcd(b,a%b) if b!=0
+    // if b=0 then a is the gcd of a and b
 
 public int GCD(int a,int b)
 {
