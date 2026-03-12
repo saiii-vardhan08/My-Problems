@@ -4,6 +4,9 @@ class Solution {
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
         int n = a.length;
+        // 1. find max in array
+        //2. find min in array
+        //3. find gcd of two elements
         for(int i=0;i<n;i++)
         {
             if(a[i]>max)
