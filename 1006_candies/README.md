@@ -43,7 +43,7 @@ Output is case insensitive.
 
 1 ≤ T ≤ 1000  
 1 ≤ N ≤ 1000  
-1 ≤ Ai ≤ 1e9  
+1 ≤ Ai ≤ 10^9  
 Sum of N over all test cases ≤ 2000
 
 ---
