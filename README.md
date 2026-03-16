@@ -93,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3856-trim-trailing-vowels](https://github.com/saiii-vardhan08/My-Problems/tree/master/3856-trim-trailing-vowels) |
 <!---LeetCode Topics End-->
