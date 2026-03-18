@@ -7,6 +7,7 @@ class Solution {
         return new int[]{f,s};
         
         }
+    // when ever asked in qns to find in arrays concept just go for binary search technique because its tc is o(logn) so here if 8 8 8 occurs still thre is fO and sO so we want to go for right and left side of the mifddle element
  public int firstO(int[] a, int t) {
 
     int l = 0;
