@@ -14,7 +14,7 @@ class Solution {
                 ind = i;
             }
         }
-// when ever there is a conditional based question dont go for satisfactory check just go for breaking point condition and break... reverse checking perfect 
+
         for(int i=0;i<n;i++)
         {
             if(i==ind)
