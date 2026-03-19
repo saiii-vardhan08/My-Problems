@@ -2,7 +2,9 @@ class Solution {
     public int[] productExceptSelf(int[] a) {
         
             int n = a.length;
-        
+        // this is the question where you have to wait and think for tc of the approach 
+        // first i thought about the brute force solution which is taking the prefix product and suffix product for each and every time and take its pro and return 
+        // but in that approach it makes the tc o(n^2) but in the question it mentioned 0(n) so we have diff approach, so think 
         int p[] = new int[n];
         int s[] = new int[n];
         int ans[] = new int[n];
