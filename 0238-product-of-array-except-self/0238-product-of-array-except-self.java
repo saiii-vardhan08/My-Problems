@@ -8,7 +8,9 @@ class Solution {
         int p[] = new int[n];
         int s[] = new int[n];
         int ans[] = new int[n];
-
+        // insted of calculating prefix and suffic product each and everytime from start 
+        // what we can do is storing the each product of prefic and suffix and using this reduces the tc to o(n)
+        // take product and store it in array are use latest product (use this for prefix and suffix) then we have 3n approach which is o(n) finally
         p[0] = 1;
         for(int i=1;i<n;i++)
         {
