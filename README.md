@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/saiii-vardhan08/My-Problems/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2843-count-symmetric-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/saiii-vardhan08/My-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Brainteaser
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
