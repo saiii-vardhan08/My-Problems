@@ -1,6 +1,10 @@
 class Solution {
     public int countSymmetricIntegers(int l, int h) {
-
+// when even solving questions in numbers 
+// always remember if you find any relation between numbers then logic or formula u can use
+// but if u cant find any relation then it must be a question where you have to convert that numbers into strings and start solving 
+// we can solve this is easy method also i solved in this approach because to understand string basic functions 
+// substring, length, String.valueOf(), Integer.parseInt()
         int sc=0;
         for(int i=l;i<=h;i++)
         {
