@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/saiii-vardhan08/My-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [3856-trim-trailing-vowels](https://github.com/saiii-vardhan08/My-Problems/tree/master/3856-trim-trailing-vowels) |
 ## Prefix Sum
 |  |
