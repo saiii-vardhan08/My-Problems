@@ -3,7 +3,7 @@ class Solution {
         
         int i=0;
         int j=a.length-1;
-
+// two pointers sincse arrays are sorted then we go for converging pointers
         while(i<j)
         {
             int sum = a[i]+a[j];
