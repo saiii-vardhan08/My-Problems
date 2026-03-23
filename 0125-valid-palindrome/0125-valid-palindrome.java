@@ -1,5 +1,7 @@
 class Solution {
     public boolean isPalindrome(String s) {
+        
+
         // this is regex which replaces everything with empty string 
         //like ^ this is not operator which tells not letters and not numbers
         // anything except these will be replaced 
