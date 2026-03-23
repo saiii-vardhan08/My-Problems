@@ -1,6 +1,7 @@
 class Solution {
     public void merge(int[] a1, int m, int[] a2, int n) {
-        // I used two pointers
+       
+         // I used two pointers
         // since two arrays are given we go for parallel pointers pointing two arryas 
         int a[] = new int[m+n];
         int i = 0;
