@@ -19,7 +19,8 @@ class Solution {
                 a[k++] = a2[j++];
             }
         }
-// this is for remaining elemensts in a1
+
+        // this is for remaining elemensts in a1
         while(i<m)
         {
             a[k++] = a1[i++];
