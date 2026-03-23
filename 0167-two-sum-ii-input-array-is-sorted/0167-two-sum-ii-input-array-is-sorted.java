@@ -1,5 +1,6 @@
 class Solution {
     public int[] twoSum(int[] a, int t) {
+        // two pointers approach
         
         int i=0;
         int j=a.length-1;
