@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/saiii-vardhan08/My-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
