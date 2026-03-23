@@ -1,6 +1,6 @@
 class Solution {
     public void merge(int[] a1, int m, int[] a2, int n) {
-        
+        // we used two pointers
         int a[] = new int[m+n];
         int i = 0;
         int j = 0;
