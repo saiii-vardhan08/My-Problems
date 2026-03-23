@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
