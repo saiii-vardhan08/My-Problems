@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saiii-vardhan08/My-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
