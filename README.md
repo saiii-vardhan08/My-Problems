@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0344-reverse-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/saiii-vardhan08/My-Problems/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0344-reverse-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/saiii-vardhan08/My-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
