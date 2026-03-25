@@ -31,7 +31,7 @@ class Solution {
             a[k++] = a2[j++];
         }
 
-        
+        // m+n is the size of the n1 array given in the qn
         for(int x=0;x<m+n;x++)
         {
             a1[x]=a[x];
