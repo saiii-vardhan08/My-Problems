@@ -2,7 +2,7 @@ class Solution {
     public void moveZeroes(int[] a) {
         int s=0;
         int f=0;
-
+// since shifting of elements in array i used two pointers 
         while(f<=a.length-1)
         {
             if(a[f]!=0)
