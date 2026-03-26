@@ -9,6 +9,8 @@ class Solution {
         // for two pointers we check starting and ending char and return false if they are not equal so for each substring i checked palindrom or not 
         // this gives tc o(n^3)
         // in future i will come up with another optimised approach
+
+        
         int n = s.length();
         String max = "";
 
