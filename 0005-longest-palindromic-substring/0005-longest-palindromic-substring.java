@@ -5,6 +5,10 @@ class Solution {
 
         // first this is a string concept we in qn it is given  to find longest substring means we have to check substrings in brute force 
         // then here concept of palindrome is there means two pointers 
+
+        // for two pointers we check starting and ending char and return false if they are not equal so for each substring i checked palindrom or not 
+        // this gives tc o(n^3)
+        // in future i will come up with another optimised approach
         int n = s.length();
         String max = "";
 
