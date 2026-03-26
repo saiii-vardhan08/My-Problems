@@ -2,6 +2,9 @@ class Solution {
     public String longestPalindrome(String s) {
         // i tried and solved it in brute force in my first attempt 
         // how i approached this problem ?
+
+        // first this is a string concept we in qn it is given  to find longest substring means we have to check substrings in brute force 
+        // then here concept of palindrome is there means two pointers 
         int n = s.length();
         String max = "";
 
