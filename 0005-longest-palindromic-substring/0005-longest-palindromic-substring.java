@@ -1,6 +1,7 @@
 class Solution {
     public String longestPalindrome(String s) {
-        
+        // i tried and solved it in brute force in my first attempt 
+        // how i approached this problem ?
         int n = s.length();
         String max = "";
 
