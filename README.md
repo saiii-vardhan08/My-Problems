@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/saiii-vardhan08/My-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/saiii-vardhan08/My-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
