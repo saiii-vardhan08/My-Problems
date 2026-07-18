@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saiii-vardhan08/My-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saiii-vardhan08/My-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -169,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saiii-vardhan08/My-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
