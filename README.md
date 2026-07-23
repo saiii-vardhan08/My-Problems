@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saiii-vardhan08/My-Problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/saiii-vardhan08/My-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saiii-vardhan08/My-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saiii-vardhan08/My-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saiii-vardhan08/My-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/saiii-vardhan08/My-Problems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saiii-vardhan08/My-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saiii-vardhan08/My-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/saiii-vardhan08/My-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
