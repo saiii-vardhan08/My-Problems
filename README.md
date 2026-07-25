@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/saiii-vardhan08/My-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/saiii-vardhan08/My-Problems/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
@@ -190,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saiii-vardhan08/My-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
