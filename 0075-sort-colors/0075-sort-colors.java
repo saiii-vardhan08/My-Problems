@@ -1,37 +1,23 @@
 class Solution {
     public void sortColors(int[] a) {
-        int n = a.length;
-        int zc=0;
-        int oc=0;
-        int tc=0;
-        for(int i=0;i<n;i++)
+        
+        Map<Integer,Integer> map = new TreeMap<>();
+
+        for(int x:a)
         {
-            if(a[i]==0)
+            map.put(x,map.getOrDefault(x,0)+1);
+        }
+
+        int j=0;
+        for(Map.Entry<Integer,Integer> e : map.entrySet())
+        {
+            for(int i=0;i<e.getValue();i++)
             {
-                zc++;
-            }
-            if(a[i]==1)
-            {
-                oc++;
-            }
-            if(a[i]==2)
-            {
-                tc++;
+                a[j] = e.getKey();
+                j++;
             }
         }
 
-        for(int i=0;i<zc;i++)
-        {
-            a[i]=0;
-        }
-        for(int j=zc;j<oc+zc;j++)
-        {
-            a[j]=1;
-        }
-        for(int k=oc+zc;k<n;k++)
-        {
-            a[k]=2;
-        }
+
     }
-
 }
