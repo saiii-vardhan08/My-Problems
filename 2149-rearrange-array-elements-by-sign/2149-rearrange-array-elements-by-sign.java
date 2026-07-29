@@ -3,44 +3,26 @@ class Solution {
         
         int n = a.length;
 
-        int p[] = new int[n/2];
-        int na[] = new int[n/2];
+        int ans[] = new int[n];
 
-        int j=0;
-        int k=0;
+        int p=0;
+        int ni=1;
 
         for(int i=0;i<n;i++)
         {
             if(a[i]>0)
             {
-                p[j] = a[i];
-                j++;
+                ans[p]= a[i];
+                p+=2;
             }
             else
             {
-                na[k] = a[i];
-                k++;
+                ans[ni]=a[i];
+                ni+=2;
             }
         }
-
-        int ans[] = new int[n];
-
-        j=0;
-        k=0;
-
-        for(int i=0;i<n;i++)
-        {
-            if(i%2==0)
-            {
-                ans[i] = p[j];
-                j++;
-            }
-            else
-            {
-                ans[i] = na[k];
-                k++;
-            }
-        }
+        
+        
 
         return ans;
     }
