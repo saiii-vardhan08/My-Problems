@@ -6,14 +6,16 @@ class Solution {
             return false;
         }
         else{
+        int x=1;
         for(int i=0;i<=19;i++)
         {
-            if(n == Math.pow(3,i))
+            if(x==n)
             {
                 return true;
             }
-        }
+            x*=3;
         }
         return false;
+        }
     }
 }
