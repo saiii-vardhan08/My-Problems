@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/saiii-vardhan08/My-Problems/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1046-last-stone-weight](https://github.com/saiii-vardhan08/My-Problems/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saiii-vardhan08/My-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/saiii-vardhan08/My-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/saiii-vardhan08/My-Problems/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
