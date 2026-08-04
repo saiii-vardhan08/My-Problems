@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saiii-vardhan08/My-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saiii-vardhan08/My-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saiii-vardhan08/My-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/3819-rotate-non-negative-elements) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/saiii-vardhan08/My-Problems/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Enumeration
 |  |
 | ------- |
