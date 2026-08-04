@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/saiii-vardhan08/My-Problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/saiii-vardhan08/My-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/saiii-vardhan08/My-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1046-last-stone-weight](https://github.com/saiii-vardhan08/My-Problems/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/saiii-vardhan08/My-Problems/tree/master/0724-find-pivot-index) |
 ## Enumeration
 |  |
 | ------- |
