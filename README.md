@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/saiii-vardhan08/My-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/saiii-vardhan08/My-Problems/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/saiii-vardhan08/My-Problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/saiii-vardhan08/My-Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/saiii-vardhan08/My-Problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
