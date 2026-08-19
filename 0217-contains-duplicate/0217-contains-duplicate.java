@@ -1,15 +1,16 @@
 class Solution {
     public boolean containsDuplicate(int[] a) {
-        Arrays.sort(a);
-        boolean b = false;
-        for(int i=0;i<a.length-1;i++)
+       
+       Set<Integer> st = new HashSet<>();
+
+        for(int i=0;i<a.length;i++)
         {
-            if(a[i]==a[i+1])
+            if(st.contains(a[i]))
             {
-                b = true;
-                break;
+                return true;
             }
+            st.add(a[i]);
         }
-        return b;
+        return false;
     }
 }
