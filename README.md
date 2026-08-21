@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saiii-vardhan08/My-Problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/saiii-vardhan08/My-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saiii-vardhan08/My-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saiii-vardhan08/My-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/saiii-vardhan08/My-Problems/tree/master/0066-plus-one) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/saiii-vardhan08/My-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/saiii-vardhan08/My-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0202-happy-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/saiii-vardhan08/My-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saiii-vardhan08/My-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saiii-vardhan08/My-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/saiii-vardhan08/My-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/saiii-vardhan08/My-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saiii-vardhan08/My-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saiii-vardhan08/My-Problems/tree/master/0344-reverse-string) |
