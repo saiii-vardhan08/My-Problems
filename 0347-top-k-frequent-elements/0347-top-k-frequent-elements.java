@@ -10,20 +10,22 @@ class Solution {
             map.put(a[i],1+map.getOrDefault(a[i],0));
         }
 
-        // manam map ni sort cheyyalem kani list ni sort cheyochu so andhuke manam map ni list loki convert chesukunnam
+        PriorityQueue<Map.Entry<Integer,Integer>> pq = new PriorityQueue<>((b,c)-> b.getValue()-c.getValue());
 
-        List<Map.Entry<Integer,Integer>> lst = new ArrayList<>(map.entrySet());
-        
-        //sort based on getvalue
-
-        lst.sort((b,c)->{
-            return c.getValue() - b.getValue();
-        });
+        for(Map.Entry<Integer,Integer> e : map.entrySet())
+        {
+            pq.add(e);
+            if(pq.size()>k)
+            {
+                pq.remove();
+            }
+        }
 
         for(int i=0;i<k;i++)
         {
-            ans[i] = lst.get(i).getKey();
+            ans[i] = pq.remove().getKey();
         }
+
 
         return ans;
     }
