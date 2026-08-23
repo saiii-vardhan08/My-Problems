@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saiii-vardhan08/My-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/saiii-vardhan08/My-Problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saiii-vardhan08/My-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/saiii-vardhan08/My-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saiii-vardhan08/My-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saiii-vardhan08/My-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saiii-vardhan08/My-Problems/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
@@ -242,9 +246,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/saiii-vardhan08/My-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/saiii-vardhan08/My-Problems/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/saiii-vardhan08/My-Problems/tree/master/1046-last-stone-weight) |
 ## Union-Find
 |  |
@@ -254,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saiii-vardhan08/My-Problems/tree/master/0054-spiral-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
