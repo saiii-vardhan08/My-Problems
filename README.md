@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saiii-vardhan08/My-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/saiii-vardhan08/My-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saiii-vardhan08/My-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saiii-vardhan08/My-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saiii-vardhan08/My-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
