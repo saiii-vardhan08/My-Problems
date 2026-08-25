@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saiii-vardhan08/My-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/saiii-vardhan08/My-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saiii-vardhan08/My-Problems/tree/master/0263-ugly-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saiii-vardhan08/My-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saiii-vardhan08/My-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/saiii-vardhan08/My-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/saiii-vardhan08/My-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/saiii-vardhan08/My-Problems/tree/master/2413-smallest-even-multiple) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0204-count-primes) |
 | [2843-count-symmetric-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/2843-count-symmetric-integers) |
 ## Counting
 |  |
@@ -278,4 +282,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0347-top-k-frequent-elements) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saiii-vardhan08/My-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
