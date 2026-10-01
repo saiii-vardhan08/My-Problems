@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/saiii-vardhan08/My-Problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/saiii-vardhan08/My-Problems/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/saiii-vardhan08/My-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saiii-vardhan08/My-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/saiii-vardhan08/My-Problems/tree/master/0904-fruit-into-baskets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/saiii-vardhan08/My-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/saiii-vardhan08/My-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/saiii-vardhan08/My-Problems/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/saiii-vardhan08/My-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saiii-vardhan08/My-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/saiii-vardhan08/My-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saiii-vardhan08/My-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/saiii-vardhan08/My-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saiii-vardhan08/My-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/saiii-vardhan08/My-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/saiii-vardhan08/My-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/saiii-vardhan08/My-Problems/tree/master/1004-max-consecutive-ones-iii) |
