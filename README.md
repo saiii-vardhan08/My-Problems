@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/saiii-vardhan08/My-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/saiii-vardhan08/My-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/saiii-vardhan08/My-Problems/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saiii-vardhan08/My-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saiii-vardhan08/My-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/saiii-vardhan08/My-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/saiii-vardhan08/My-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/saiii-vardhan08/My-Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/saiii-vardhan08/My-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saiii-vardhan08/My-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saiii-vardhan08/My-Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/saiii-vardhan08/My-Problems/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/saiii-vardhan08/My-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Enumeration
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/saiii-vardhan08/My-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/saiii-vardhan08/My-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/saiii-vardhan08/My-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saiii-vardhan08/My-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saiii-vardhan08/My-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/saiii-vardhan08/My-Problems/tree/master/2799-count-complete-subarrays-in-an-array) |
