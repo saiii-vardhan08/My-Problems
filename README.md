@@ -380,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/saiii-vardhan08/My-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/saiii-vardhan08/My-Problems/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/saiii-vardhan08/My-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
