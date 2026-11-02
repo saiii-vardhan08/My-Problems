@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saiii-vardhan08/My-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/saiii-vardhan08/My-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saiii-vardhan08/My-Problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/saiii-vardhan08/My-Problems/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saiii-vardhan08/My-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/saiii-vardhan08/My-Problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saiii-vardhan08/My-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/saiii-vardhan08/My-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/saiii-vardhan08/My-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/saiii-vardhan08/My-Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/saiii-vardhan08/My-Problems/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/saiii-vardhan08/My-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saiii-vardhan08/My-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/saiii-vardhan08/My-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
